@@ -4,7 +4,7 @@
 
 def main():
 
-    return 67.09
+    return 67.08
 
 x=main()
 
