@@ -4,7 +4,7 @@
 
 def main():
 
-    return "codeschool"
+    return "codeschooluz"
 
 x=main()
 
